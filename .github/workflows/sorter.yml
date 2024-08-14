@@ -45,7 +45,7 @@ jobs:
             "${{ secrets.VLESS_URL }}"
             "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/jp/mixed"
           )
-
+          > input/proxies.txt
           for url in "${urls[@]}"
           do
             echo "Processing $url"
