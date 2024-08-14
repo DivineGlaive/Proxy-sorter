@@ -108,11 +108,38 @@ with open('input/proxies.txt', 'r') as f, open('output/converted.txt', 'w') as o
             out_f.write(processed_proxy + '\n')
 
 # Read from converted.txt and separate the proxies based on the country code
-with open('output/converted.txt', 'r') as in_f:
-    proxies = in_f.readlines()
-    with open('output/IR.txt', 'w') as ir_f, open('output/US.txt', 'w') as us_f:
+country_files = {
+    'IR': 'output/IR.txt',
+    'US': 'output/US.txt',
+    'JP': 'output/JP.txt',
+    'RU': 'output/RU.txt',
+    # Add more countries as needed
+}
+
+# Open all files in a dictionary
+open_files = {}
+
+try:
+    # Attempt to open files for each country
+    for country_code, file_path in country_files.items():
+        open_files[country_code] = open(file_path, 'w')
+    
+    # Process the proxies
+    with open('output/converted.txt', 'r') as in_f:
+        proxies = in_f.readlines()
+        
         for proxy in proxies:
-            if 'IR_' in proxy:
-                ir_f.write(proxy)
-            elif 'US_' in proxy:
-                us_f.write(proxy)
+            matched = False
+            for country_code, file in open_files.items():
+                if f'{country_code}_' in proxy:
+                    file.write(proxy)
+                    matched = True
+                    break  # Stop checking other country codes once a match is found
+            
+            if not matched:
+                print(f"No matching country code found for proxy: {proxy.strip()}")
+
+finally:
+    # Ensure all files are closed
+    for file in open_files.values():
+        file.close()
