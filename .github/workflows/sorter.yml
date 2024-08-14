@@ -2,11 +2,13 @@ name: Fetch proxies, Run python sorter and Base64
 
 on:
   push:
-    branches: [ main ]
+    paths:
+      - '.github/workflows/sorter.yml'
+      - 'python/sorter.py'
 
   workflow_dispatch:
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 */8 * * *"
 jobs:
   build:
 
@@ -103,8 +105,6 @@ jobs:
         pip install requests
 
     - name: Run sorter script
-      env:
-          GET_IPGEO: ${{ secrets.GET_IPGEO }}
       run: python python/sorter.py
       
     - name: Check for Output Changes
@@ -117,7 +117,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add output/converted.txt output/US.txt output/IR.txt
+        git add output
         git commit -m "Update files" -a
         git push
 
