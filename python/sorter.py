@@ -23,7 +23,15 @@ def get_country_code(ip_address):
         # Send a GET request to ip-api
         response = requests.get(f'{base_url}/{ip_address}')
         
+        # Introduce a delay to respect the rate limit
+        time.sleep(1.33)  # Delay for 1.33 seconds
+
         # Check if the request was successful
+        if response.status_code == 429:
+            print("Rate limit exceeded. Waiting before retrying...")
+            time.sleep(60)  # Wait for 60 seconds before retrying
+            return get_country_code(ip_address)  # Retry after delay
+        
         if response.status_code != 200:
             print(f"Error fetching data: HTTP {response.status_code}")
             return None
