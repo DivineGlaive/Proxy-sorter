@@ -35,18 +35,39 @@ jobs:
         git commit -m "Archived backups"
         git push
     
-    - name: Combine URL contents
+
+    - name: Combine URL Contents
       run: |
-        # Replace with your URLs
-        URL1="${{ secrets.VMESS_URL }}"
-        URL2="${{ secrets.VLESS_URL }}"
+          urls=(
+            "${{ secrets.VMESS_URL }}"
+            "${{ secrets.VLESS_URL }}"
+            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/jp/mixed"
+          )
 
-        # Fetch the contents
-        CONTENT1=$(curl -s "$URL1")
-        CONTENT2=$(curl -s "$URL2")
+          for url in "${urls[@]}"
+          do
+            echo "Processing $url"
+            content=$(curl -s --fail $url)
+            if [[ $? -ne 0 ]]; then
+              echo "Failed to fetch content from $url"
+              exit 1
+            fi
 
-        # Combine and save to a file
-        echo -e "$CONTENT1\n$CONTENT2" > input/proxies.txt
+            if [[ $content =~ ^[A-Za-z0-9+/=]+$ ]]; then
+              decoded_content=$(echo "$content" | base64 --decode)
+              if [[ $? -ne 0 ]]; then
+                echo "Failed to decode base64 content from $url"
+                exit 1
+              fi
+            else
+              decoded_content="$content"
+            fi
+
+            echo "$decoded_content" | grep -E '^(vmess://|vless://)' >> input/proxies.txt
+          done
+
+
+
 
     - name: Check for Input Changes
       id: changesin
