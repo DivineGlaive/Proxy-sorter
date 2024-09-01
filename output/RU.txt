@@ -1,2 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.73:443?security=tls&sni=hkh.ylks.xyz&type=ws&path=/?proxyip#🇷🇺RU_2655_@Surfboardv2ray
-vless://fa8e2d5b-61e4-4943-a79a-677a0c80cf4c@94.242.60.130:10959/?type=grpc&encryption=none&flow=&sni=upload.ir&fp=chrome&security=reality&pbk=_qwd1sw6iOO_QZikcDjcuXrWpQznuqCFHYzE73VSiWc&sid=cb2f55b1#🇷🇺RU_3782_@Surfboardv2ray
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.73:443?security=tls&sni=hkh.ylks.xyz&type=ws&path=/?proxyip#🇷🇺RU_2748_@Surfboardv2ray
