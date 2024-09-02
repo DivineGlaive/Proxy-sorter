@@ -1,2 +1,2 @@
-vless://3f2f7ec9-d26a-49f0-cd42-c9a02ff00fea@upmusics.com.varzesh3.ru:27450?type=tcp&security=none#🇷🇺RU_944_@Surfboardv2ray
+vless://3f2f7ec9-d26a-49f0-cd42-c9a02ff00fea@upmusics.com.varzesh3.ru:27450?type=tcp&security=none#🇷🇺RU_943_@Surfboardv2ray
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.73:443?security=tls&sni=hkh.ylks.xyz&type=ws&path=/?proxyip#🇷🇺RU_2748_@Surfboardv2ray
