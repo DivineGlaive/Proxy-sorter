@@ -1,1 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.73:443?security=tls&sni=hkh.ylks.xyz&type=ws&path=/?proxyip#🇷🇺RU_2876_@Surfboardv2ray
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.73:443?security=tls&sni=hkh.ylks.xyz&type=ws&path=/?proxyip#🇷🇺RU_2885_@Surfboardv2ray

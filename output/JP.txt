@@ -1,2 +1,2 @@
-vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4116_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@103.75.70.107:55092?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4117_@Surfboardv2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.75.70.107:55092?security=tls&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🇯🇵JP_4076_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4077_@Surfboardv2ray
