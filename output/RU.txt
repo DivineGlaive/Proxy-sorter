@@ -1,1 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.73:443?security=tls&sni=hkh.ylks.xyz&type=ws&path=/?proxyip#🇷🇺RU_2892_@Surfboardv2ray
+vless://27cb0bdc-0bfb-47a9-8eb5-27f5ffa074d2@193.9.49.166:8080?type=httpupgrade&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none#🇷🇺RU_853_@Surfboardv2ray
+vless://27cb0bdc-0bfb-47a9-8eb5-27f5ffa074d2@193.9.49.166:8080?type=httpupgrade&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none#🇷🇺RU_854_@Surfboardv2ray
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.73:443?security=tls&sni=hkh.ylks.xyz&type=ws&path=/?proxyip#🇷🇺RU_2917_@Surfboardv2ray
