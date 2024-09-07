@@ -1,8 +1,5 @@
-vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=/?ed#🇯🇵JP_2212_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=/?ed#🇯🇵JP_2213_@Surfboardv2ray
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@35.187.208.108:51637/?type=ws&encryption=none&host=dns68.putata.eu.org&path=/?ed=2048&security=tls&sni=dns68.putata.eu.org&fp=chrome#🇯🇵JP_3477_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@103.75.70.107:55092?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4143_@Surfboardv2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@176.97.73.82:8443?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#🇯🇵JP_4144_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@158.101.154.245:41003?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4145_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4146_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4147_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4127_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@103.75.70.107:55092?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4128_@Surfboardv2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@176.97.73.82:8443?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#🇯🇵JP_4129_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@158.101.154.245:41003?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4130_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_4131_@Surfboardv2ray
