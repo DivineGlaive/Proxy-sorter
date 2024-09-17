@@ -1,7 +1,7 @@
+vless://93b99881-df03-4597-9146-0c11e46387f7@193.111.31.133:50896?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3950_@Surfboardv2ray
 vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3951_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3952_@Surfboardv2ray
-vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@172.84.92.152:58723?security=tls&sni=page-us-qg0.pages.dev&type=ws&path=%2F&fp=random#🇯🇵JP_3953_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@193.111.31.133:50896?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3954_@Surfboardv2ray
-vless://5c542056-a113-43a3-9889-f7ec7884e014@132.145.123.231:443?security=tls&flow=xtls-rprx-vision&sni=dcpqjp.hnkkt.com&type=tcp#🇯🇵JP_3955_@Surfboardv2ray
-vless://5c542056-a113-43a3-9889-f7ec7884e014@155.248.174.140:443?security=tls&flow=xtls-rprx-vision&sni=dcpqjp.hnkkt.com&type=tcp#🇯🇵JP_3956_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@158.101.154.245:41003?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3957_@Surfboardv2ray
+vless://5c542056-a113-43a3-9889-f7ec7884e014@132.145.123.231:443?security=tls&flow=xtls-rprx-vision&sni=dcpqjp.hnkkt.com&type=tcp#🇯🇵JP_3952_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3953_@Surfboardv2ray
+vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@172.84.92.152:58723?security=tls&sni=page-us-qg0.pages.dev&type=ws&path=%2F&fp=random#🇯🇵JP_3954_@Surfboardv2ray
+vless://5c542056-a113-43a3-9889-f7ec7884e014@155.248.174.140:443?security=tls&flow=xtls-rprx-vision&sni=dcpqjp.hnkkt.com&type=tcp#🇯🇵JP_3955_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@158.101.154.245:41003?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3956_@Surfboardv2ray
