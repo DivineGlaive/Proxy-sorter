@@ -3981,11 +3981,12 @@ vless://👉BanV2ray👈@werewjhksjdhfkjsd-432423432-dfggggg-54353534555555-fr.l
 vless://👉👉BanV2ray👈👈@chanel-fr-free2.lavazemkhoshina.ir:31422?type=tcp&path=/&host=divarcdn.com&headerType=http&security=none#@napoliii1994
 vless://👉👉BanV2ray👈👈@preview.research.cloudflare.com:2086?type=httpupgrade&path=/www.speedtest.net-www.speedtest.net?ed=15469&host=google.com.telewebion.com.bmi.ir.fast.com.asus.com-546545632333dfsdf54343425465-de.lavazemkhoshina.ir.&security=none#@napoliii1994
 vless://👉👉BanV2ray👈👈@preview.research.cloudflare.com:2095?type=httpupgrade&path=/www.speedtest.net-www.speedtest.net?ed=38468&host=google.com.telewebion.com.bmi.ir.fast.com.asus.com-fdgdf45454ert543-543543.lavazemkhoshina.ir.&security=none#@napoliii1994
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.116.7.129:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-103.116.7.129:2082
-vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-141.147.183.49:29876
+vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.116.7.131:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-103.116.7.131:2082
 vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@172.84.92.152:58723?security=tls&sni=page-us-qg0.pages.dev&type=ws&path=%2F&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-172.84.92.152:58723
+vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.116.7.129:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-103.116.7.129:2082
 vless://93b99881-df03-4597-9146-0c11e46387f7@193.111.31.133:50896?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-193.111.31.133:50896
-vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-45.32.59.97:34567
 vless://93b99881-df03-4597-9146-0c11e46387f7@158.101.154.245:41003?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-158.101.154.245:41003
+vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-141.147.183.49:29876
 vless://5c542056-a113-43a3-9889-f7ec7884e014@155.248.174.140:443?security=tls&flow=xtls-rprx-vision&sni=dcpqjp.hnkkt.com&type=tcp#🔒 VL-TCP-TLS 🇯🇵 JP-155.248.174.140:443
+vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-45.32.59.97:34567
 vless://6a54f6df-3a5c-44e2-9fae-e943c9903730@43.206.229.137:60001?security=reality&flow=xtls-rprx-vision&sni=python.org&type=tcp&fp=safari&pbk=Kyrdn7OhtL66JwSRScElBxoFSZLr5beafP4njt_Y_G0&sid=a3ffb25d#🔒 VL-TCP-RLT 🇯🇵 JP-43.206.229.137:60001
