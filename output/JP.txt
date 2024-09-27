@@ -1,8 +1,8 @@
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.116.7.131:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🇯🇵JP_3724_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3725_@Surfboardv2ray
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?security=tls&sni=jt.ylks01.eu.org&type=ws&path=%2Fblue#🇯🇵JP_3726_@Surfboardv2ray
-vless://5c542056-a113-43a3-9889-f7ec7884e014@155.248.174.140:443?security=tls&flow=xtls-rprx-vision&sni=dcpqjp.hnkkt.com&type=tcp#🇯🇵JP_3727_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@193.111.31.133:50896?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3728_@Surfboardv2ray
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.116.7.129:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🇯🇵JP_3729_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3730_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@158.101.154.245:41003?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3731_@Surfboardv2ray
+vless://5c542056-a113-43a3-9889-f7ec7884e014@155.248.174.140:443?security=tls&flow=xtls-rprx-vision&sni=dcpqjp.hnkkt.com&type=tcp#🇯🇵JP_3613_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@158.101.154.245:41003?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3614_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@193.111.31.133:50896?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3615_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3616_@Surfboardv2ray
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?security=tls&sni=jt.ylks01.eu.org&type=ws&path=%2Fblue#🇯🇵JP_3617_@Surfboardv2ray
+vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.116.7.131:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🇯🇵JP_3618_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3619_@Surfboardv2ray
+vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.116.7.129:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🇯🇵JP_3620_@Surfboardv2ray
