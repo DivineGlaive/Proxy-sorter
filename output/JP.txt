@@ -1,4 +1,4 @@
-vless://93b99881-df03-4597-9146-0c11e46387f7@193.111.31.133:50896?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3667_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3668_@Surfboardv2ray
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?security=tls&sni=jt.ylks01.eu.org&type=ws&path=%2Fblue#🇯🇵JP_3669_@Surfboardv2ray
-vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3670_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@193.111.31.133:50896?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3566_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3567_@Surfboardv2ray
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?security=tls&sni=jt.ylks01.eu.org&type=ws&path=%2Fblue#🇯🇵JP_3568_@Surfboardv2ray
+vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🇯🇵JP_3569_@Surfboardv2ray
