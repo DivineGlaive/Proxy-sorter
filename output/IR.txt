@@ -61,7 +61,6 @@ vless://79ea6e84-1870-4ef9-8dcc-4500f4af79f1@79.127.70.87:8088?security=none&enc
 vless://7b0066b1-5c34-4cf4-bf89-6d98da423807@37.152.179.33:777?security=none&encryption=none&headerType=none&type=tcp#🇮🇷IR_1526_@Surfboardv2ray
 vless://7b13ecd1-9893-4b2a-81fb-e36798ae868e@t.imamHossein.com:443?mode=gun&security=reality&encryption=none&alpn=http/1.1&pbk=WPF76C161rO80d4T21eaTIenhQUgy7ePTLwJtYII62Q&fp=chrome&type=grpc&serviceName=utaFR1lGdrKmDYV3Pf&sni=duckduckgo.com&sid=ea8f31cd#🇮🇷IR_1527_@Surfboardv2ray
 vless://80817fde-96ec-4e8f-8d87-3e844f993455@217.60.187.84:47465?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#🇮🇷IR_1572_@Surfboardv2ray
-vless://80817fde-96ec-4e8f-8d87-3e844f993455@gr4.valus.monster:47465?type=tcp&path=/&serviceName=@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET----@DRA_NET&headerType=http&security=none#🇮🇷IR_1573_@Surfboardv2ray
 vless://852ef8ba-19cc-43a6-a667-ab69b7b0e3d2@62.60.178.234:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷IR_1629_@Surfboardv2ray
 vless://85bc1120-3cb3-45ff-a12f-9e7d94f40634@212.16.68.63:1003?type=tcp#🇮🇷IR_1632_@Surfboardv2ray
 vless://86c08638-1eaa-42ff-a71e-704d1a2bf27f@79.127.70.84:443?security=none&encryption=none&host=www.@Fergalvpnmod.net&headerType=http&type=tcp#🇮🇷IR_1634_@Surfboardv2ray
