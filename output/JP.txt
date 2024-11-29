@@ -1,1 +1,4 @@
-vless://de44b044-8f90-4e18-b742-16591667ff96@202.60.191.6:17922?path=/?ed=2048&security=tls&encryption=none&host=edgetunnel-free.pages.dev&fp=chrome&type=ws&sni=edgetunnel-free.pages.dev#🇯🇵JP_2744_@Surfboardv2ray
+vless://de44b044-8f90-4e18-b742-16591667ff96@202.60.191.6:17922?path=/?ed=2048&security=tls&encryption=none&host=edgetunnel-free.pages.dev&fp=chrome&type=ws&sni=edgetunnel-free.pages.dev#🇯🇵JP_2745_@Surfboardv2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.110.103.142:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&allowInsecure=0#🇯🇵JP_3197_@Surfboardv2ray
+vless://de44b044-8f90-4e18-b742-16591667ff96@202.60.191.6:17922?security=tls&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🇯🇵JP_3198_@Surfboardv2ray
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.243.85.49:10443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🇯🇵JP_3199_@Surfboardv2ray
