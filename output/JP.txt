@@ -1,9 +1,7 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.154.214:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3086_@Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.161.58:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3087_@Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.91.18.127:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3088_@Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.226.7.222:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3089_@Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.83.36.122:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3090_@Surfboardv2ray
-vless://de44b044-8f90-4e18-b742-16591667ff96@20.243.85.49:10443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🇯🇵JP_3091_@Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.46.67:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3092_@Surfboardv2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.110.103.142:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&allowInsecure=0#🇯🇵JP_3093_@Surfboardv2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.16.242.208:8889?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🇯🇵JP_3094_@Surfboardv2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.16.242.208:8889?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🇯🇵JP_3078_@Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.226.7.222:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3079_@Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.83.36.122:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3080_@Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.91.18.127:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3081_@Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.161.58:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3082_@Surfboardv2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.110.103.142:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&allowInsecure=0#🇯🇵JP_3083_@Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.46.67:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🇯🇵JP_3084_@Surfboardv2ray
