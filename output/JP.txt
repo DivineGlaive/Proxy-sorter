@@ -1,3 +1,4 @@
 vless://5badf258-0313-418d-b9e6-95a52eefcf00@45.196.233.58:443?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5badf258.com#🇯🇵JP_1201_@Surfboardv2ray
 vless://92dc14c5-e2b0-41bc-9827-1b687295c530@jp3.xiaofeixia.cyou:2052?security=reality&encryption=none&pbk=EHpXGCsdeDDLP-0ZXq8xxgrX3rzF2Mc6A5FsVQvoUhQ&headerType=none&fp=chrome&type=tcp&sni=s0.awsstatic.com&sid=bbd6eecb#🇯🇵JP_1920_@Surfboardv2ray
 vless://bc98f5c6-b2f1-425b-bbd4-d76ee3362bb6@45.12.134.120:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#🇯🇵JP_2651_@Surfboardv2ray
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@132.145.116.185:443?sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg#🇯🇵JP_3466_@Surfboardv2ray
