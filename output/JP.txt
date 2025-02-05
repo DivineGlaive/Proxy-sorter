@@ -1,7 +1,6 @@
-vless://bc98f5c6-b2f1-425b-bbd4-d76ee3362bb6@45.12.134.120:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#🇯🇵JP_2557_@Surfboardv2ray
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@141.147.154.214:443?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3360_@Surfboardv2ray
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@141.147.144.246:8080?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3361_@Surfboardv2ray
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@52.195.187.159:443?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3362_@Surfboardv2ray
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@8.209.243.110:8175?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3363_@Surfboardv2ray
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@38.180.29.115:443?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3364_@Surfboardv2ray
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@155.248.172.55:12121?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3365_@Surfboardv2ray
+vless://bc98f5c6-b2f1-425b-bbd4-d76ee3362bb6@45.12.134.120:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#🇯🇵JP_2518_@Surfboardv2ray
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@155.248.172.55:12121?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3320_@Surfboardv2ray
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@141.147.144.246:8080?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3321_@Surfboardv2ray
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@52.195.187.159:443?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3322_@Surfboardv2ray
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@38.180.29.115:443?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3323_@Surfboardv2ray
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@141.147.154.214:443?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🇯🇵JP_3324_@Surfboardv2ray
