@@ -15,5 +15,5 @@ vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?security=none&en
 vless://755fafcf-10dc-57e6-933d-604b13ac541f@103.113.68.233:2086?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=ru1.vless.site#🇷🇺RU_1408_@Surfboardv2ray
 vless://819e9374-8e2e-5d5d-91bd-1afd4fe2c78c@91.207.183.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=ru2.vless.site#🇷🇺RU_1493_@Surfboardv2ray
 vless://9dddab9e-8484-4b21-ba49-457c6b5a1187@45.153.231.248:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=&fp=chrome&type=tcp&sni=google.com#🇷🇺RU_1774_@Surfboardv2ray
-vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?security=none&encryption=none&headerType=none&type=tcp#🇷🇺RU_2467_@Surfboardv2ray
+vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?security=none&encryption=none&headerType=none&type=tcp#🇷🇺RU_2466_@Surfboardv2ray
 vless://dec1d9ec-bca0-4fee-8829-0960c72b3cec@ru2.asc-sam.ir:443?path=/@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan&security=tls&encryption=none&alpn=h3,h2,http/1.1&fp=chrome&type=http&sni=ru2.asc-sam.ir#🇷🇺RU_2773_@Surfboardv2ray
