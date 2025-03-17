@@ -5,10 +5,10 @@ vless://56cc6e17-16db-4b6e-b0de-0c40bd771536@t.ps4link.su:443?mode=auto&path=/mm
 vless://5d2e9d3b-adfd-4056-935b-e9c86acfaec1@45.67.32.147:37665?security=reality&encryption=none&pbk=fcjBIZcvVsr1Gy-iZbIko-0Ey5icPtmXIxY3sd4UEFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=psv4.vkuseraudio.net&sid=9168#🇷🇺RU_1178_@Surfboardv2ray
 vless://755fafcf-10dc-57e6-933d-604b13ac541f@103.113.68.233:2086?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=ru1.vless.site#🇷🇺RU_1421_@Surfboardv2ray
 vless://819e9374-8e2e-5d5d-91bd-1afd4fe2c78c@91.207.183.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=ru2.vless.site#🇷🇺RU_1521_@Surfboardv2ray
-vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?security=none&encryption=none&headerType=none&type=tcp#🇷🇺RU_2276_@Surfboardv2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.174.138.197:8080/?type=ws&encryption=none&flow=&host=a.xn--i-sx6a60i.us.kg.&path=/#🇷🇺RU_2496_@Surfboardv2ray
+vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?security=none&encryption=none&headerType=none&type=tcp#🇷🇺RU_2272_@Surfboardv2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.174.138.197:8080/?type=ws&encryption=none&flow=&host=a.xn--i-sx6a60i.us.kg.&path=/#🇷🇺RU_2495_@Surfboardv2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.174.138.197:8080?path=/&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🇷🇺RU_2496_@Surfboardv2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.174.138.197:8080?path=/&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🇷🇺RU_2497_@Surfboardv2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.174.138.197:8080?path=/&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🇷🇺RU_2498_@Surfboardv2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.174.138.197:8080?path=/&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🇷🇺RU_2499_@Surfboardv2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.174.138.197:8080?path=/&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🇷🇺RU_2500_@Surfboardv2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.174.138.197:8080?path=/&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🇷🇺RU_2501_@Surfboardv2ray
