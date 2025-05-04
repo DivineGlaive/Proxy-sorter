@@ -83,8 +83,8 @@ vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.5:2086?path=/wp-admin?e
 vless://f156531d-094f-48be-9ca4-b6362c4a88e1@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_3220_@Surfboardv2ray
 vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#🇮🇷IR_3225_@Surfboardv2ray
 vless://f282b921-7d3d-4606-8c4c-5c6ff055953b@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_3227_@Surfboardv2ray
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.131.4.33:8880?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=photographipictureai.ir&type=ws#🇮🇷IR_3263_@Surfboardv2ray
-vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=&encryption=none&headerType=http&type=tcp#🇮🇷IR_3278_@Surfboardv2ray
-vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=none&encryption=none&headerType=http&type=tcp#🇮🇷IR_3279_@Surfboardv2ray
-vless://feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?type=tcp&headerType=http#🇮🇷IR_3328_@Surfboardv2ray
-vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇮🇷IR_3436_@Surfboardv2ray
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.131.4.33:8880?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=photographipictureai.ir&type=ws#🇮🇷IR_3262_@Surfboardv2ray
+vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=&encryption=none&headerType=http&type=tcp#🇮🇷IR_3277_@Surfboardv2ray
+vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=none&encryption=none&headerType=http&type=tcp#🇮🇷IR_3278_@Surfboardv2ray
+vless://feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?type=tcp&headerType=http#🇮🇷IR_3327_@Surfboardv2ray
+vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇮🇷IR_3435_@Surfboardv2ray
