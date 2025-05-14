@@ -6,4 +6,4 @@ vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?path=/websocket&s
 vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?path=/websocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#🇹🇷TR_1393_@Surfboardv2ray
 vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇹🇷TR_1514_@Surfboardv2ray
 vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇹🇷TR_1515_@Surfboardv2ray
-vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#🇹🇷TR_2854_@Surfboardv2ray
+vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#🇹🇷TR_2847_@Surfboardv2ray
