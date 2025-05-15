@@ -1,3 +1,4 @@
-vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?path=/websocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#🇹🇷TR_741_@Surfboardv2ray
-vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?path=/websocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#🇹🇷TR_747_@Surfboardv2ray
-vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇹🇷TR_807_@Surfboardv2ray
+vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&headerType=http&host=divarcdn.com#🇹🇷TR_333_@Surfboardv2ray
+vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?path=/websocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#🇹🇷TR_719_@Surfboardv2ray
+vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?path=/websocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#🇹🇷TR_726_@Surfboardv2ray
+vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇹🇷TR_789_@Surfboardv2ray
