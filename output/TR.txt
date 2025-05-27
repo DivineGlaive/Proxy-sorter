@@ -1,7 +1,6 @@
-vless://07d35860-e67d-455e-9d65-0bd712075be0@95.164.116.35:443?path=/ws&security=tls&encryption=none&host=95.164.116.35&fp=chrome&type=ws&sni=95.164.116.35#🇹🇷TR_142_@Surfboardv2ray
-vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇹🇷TR_250_@Surfboardv2ray
-vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?path=/websocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#🇹🇷TR_478_@Surfboardv2ray
-vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇹🇷TR_519_@Surfboardv2ray
-vless://885a03bb-4797-3fd8-5446-c770066cb87e@serverdlt1.goodshoes.ir:4111?security=reality&encryption=none&pbk=SLaKJrXI_5q7tPsYGffScpC1MEl75kMp-Z6M5KnvZwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=serverdlt1.goodshoes.ir&sid=cc30318af8ce0970#🇹🇷TR_624_@Surfboardv2ray
-vless://SAVTEAM1@79.110.51.44:55555?security=reality&encryption=none=#🇹🇷TR_723_@Surfboardv2ray
-vless://f8ce69c3-7571-4262-8d6a-c0d0c53ec791@31.57.33.106:23836?security=none&encryption=none&host=/Join_Bade_Channel@JOKERRVPN&headerType=none&type=tcp#🇹🇷TR_1136_@Surfboardv2ray
+vless://07d35860-e67d-455e-9d65-0bd712075be0@95.164.116.35:443?path=/ws&security=tls&encryption=none&host=95.164.116.35&fp=chrome&type=ws&sni=95.164.116.35#🇹🇷TR_151_@Surfboardv2ray
+vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇹🇷TR_553_@Surfboardv2ray
+vless://885a03bb-4797-3fd8-5446-c770066cb87e@216.9.225.51:4111?security=reality&encryption=none&pbk=SLaKJrXI_5q7tPsYGffScpC1MEl75kMp-Z6M5KnvZwc&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=serverdlt1.goodshoes.ir&sid=cc30318af8ce0970#🇹🇷TR_662_@Surfboardv2ray
+vless://885a03bb-4797-3fd8-5446-c770066cb87e@serverdlt1.goodshoes.ir:4111?security=reality&encryption=none&pbk=SLaKJrXI_5q7tPsYGffScpC1MEl75kMp-Z6M5KnvZwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=serverdlt1.goodshoes.ir&sid=cc30318af8ce0970#🇹🇷TR_663_@Surfboardv2ray
+vless://SAVTEAM1@79.110.51.44:55555?security=reality&encryption=none=#🇹🇷TR_770_@Surfboardv2ray
+vless://f8ce69c3-7571-4262-8d6a-c0d0c53ec791@31.57.33.106:23836?security=none&encryption=none&host=/Join_Bade_Channel@JOKERRVPN&headerType=none&type=tcp#🇹🇷TR_1183_@Surfboardv2ray
