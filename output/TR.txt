@@ -2,5 +2,5 @@ vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?path=/websocket?
 vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?path=/websocket?ed=2048-@ShadowProxy66&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#🇹🇷TR_547_@Surfboardv2ray
 vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇹🇷TR_585_@Surfboardv2ray
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@tr.accesspoints.cloakify.app:28495?security=reality&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#🇹🇷TR_671_@Surfboardv2ray
-vless://SAVTEAM1@79.110.51.44:55555?security=reality&encryption=none=#🇹🇷TR_802_@Surfboardv2ray
-vless://f8ce69c3-7571-4262-8d6a-c0d0c53ec791@31.57.33.106:23836?security=none&encryption=none&host=/Join_Bade_Channel@JOKERRVPN&headerType=none&type=tcp#🇹🇷TR_1212_@Surfboardv2ray
+vless://SAVTEAM1@79.110.51.44:55555?security=reality&encryption=none=#🇹🇷TR_801_@Surfboardv2ray
+vless://f8ce69c3-7571-4262-8d6a-c0d0c53ec791@31.57.33.106:23836?security=none&encryption=none&host=/Join_Bade_Channel@JOKERRVPN&headerType=none&type=tcp#🇹🇷TR_1209_@Surfboardv2ray
