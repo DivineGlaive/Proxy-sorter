@@ -1,7 +1,5 @@
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@81.94.150.122:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=spb1.fromblancwithlove.com#🇷🇺RU_233_@Surfboardv2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.75:8880?path=/&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇷🇺RU_515_@Surfboardv2ray
-vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?path=/websocket&security=tls&encryption=none&host=ru01.abvpn.ru&fp=chrome&type=ws&sni=ru01.abvpn.ru#🇷🇺RU_565_@Surfboardv2ray
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#🇷🇺RU_717_@Surfboardv2ray
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.148.104.124:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=/&fp=chrome&alpn=h3,h2#🇷🇺RU_853_@Surfboardv2ray
-vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?security=none&encryption=none&headerType=none&type=tcp#🇷🇺RU_1074_@Surfboardv2ray
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.84.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🇷🇺RU_1335_@Surfboardv2ray
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@81.94.150.122:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=spb1.fromblancwithlove.com#🇷🇺RU_216_@Surfboardv2ray
+vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?path=/websocket&security=tls&encryption=none&host=ru01.abvpn.ru&fp=chrome&type=ws&sni=ru01.abvpn.ru#🇷🇺RU_510_@Surfboardv2ray
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#🇷🇺RU_652_@Surfboardv2ray
+vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?security=none&encryption=none&headerType=none&type=tcp#🇷🇺RU_995_@Surfboardv2ray
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.84.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🇷🇺RU_1254_@Surfboardv2ray
