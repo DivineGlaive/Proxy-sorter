@@ -1,1 +1,2 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.109.205.63:8880?path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net/&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#🇷🇺RU_432_@Surfboardv2ray
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.148.104.116:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#🇷🇺RU_156_@Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.104.245:80?path=/Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🇷🇺RU_263_@Surfboardv2ray
